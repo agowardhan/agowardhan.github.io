@@ -100,4 +100,3 @@ Regular speaker at the weekly galaxy lunch series at the Department of Astronomy
 - Astro 1101/1103 : Fall 2015, 2016, 2018    
 - Astro 2201 : Spring 2015, Spring 2016 
 - Astro 2202 : Spring 2017 
-
