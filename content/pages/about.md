@@ -1,5 +1,5 @@
 
-<img src="../content/images/pic3.jpg" alt="drawing" width="150"/> 
+<img src="../images/pic3.jpg" alt="drawing" width="150"/> 
 
 # Background 
 
