@@ -33,7 +33,7 @@ Searching for absorption lines of molecular gas is a powerfun way to circumvent 
 
 ### Enhancement of sensitivity of detection of gravitational waves from supernovae
 
-| ![gw.jpg](../images/gw.jpg)| 
+| ![gw.png](../images/gw.png)| 
 |:--:| 
 | The first gravitational wave signatures! Adapted from [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102)| 
 
