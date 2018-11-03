@@ -11,13 +11,12 @@ I completed my bachelors and masters in Physics from the Indian Institute of Sci
 
 
 ### Hearts of darkness
-As a Visiting Graduate Research student at the Infrared Processing and Analysis Center (IPAC), Caltech, I worked with Lee Armus and the Great-Observatories All-sky Survey (GOALS) on the study of some of the dustiest and most deeply obscured nuclei in the nearby universe. Using dense gas observations from ALMA, we study the the molecular gas dynamics on ~50-100 pc scales in the nuclei of these galaxies (paper to be posted soon.)
+As a Visiting Graduate Research Fellow at the [Infrared Processing and Analysis Center (IPAC)](https://www.ipac.caltech.edu/), Caltech, I worked with Lee Armus and the [Great-Observatories All-sky Survey (GOALS)](http://goals.ipac.caltech.edu/) team on the study of some of the dustiest and most deeply obscured nuclei in the nearby universe. Using dense gas observations from ALMA, we study the the molecular gas dynamics on ~50-100 pc scales in the nuclei of these galaxies (paper to be posted soon!)
 
 ### The most powerful molecular outflows in the nearby universe
 |![outflow.jpg](../images/outflow.jpg)| 
 |:--:| 
 | Caption|
-
 
 Observations over the last decade have revealed that feedback in the form of molecular gas outflows is ubiquitous in local ultra luminous infrared galaxies (ULIRGs). Such outflows can clear the nuclear environments of gas and dust, quench star formation and active galactic nuclei (AGN) growth, and are a key step in the evolution of dust-obscured AGN to optically luminous quasars.In this work, we present multi-spectral line observations of feedback in the two most powerful molecular gas outflows in the local universe. We spatially resolve the outflows to determine their kinematics and structure and find that they can drive out the molecular gas and quench star formation within ~ few Myr. Applying mid-IR diagnostics to constrain the relative contributions of AGN and nuclear starburst activity, we find that starburst activity plays a significant role in driving the outflow.
 
