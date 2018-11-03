@@ -25,7 +25,7 @@ We perfomed observations of dense molecular gas - which traces the actively-star
 
 ### A deep blind survey for molecular gas detection
 
-| ![pks1800.jpg](../images/pks1800.jpg)| 
+| ![pks1800.png](../images/pks1800.png)| 
 |:--:| 
 | An artist's impression of AGN-driven outflows |
 
