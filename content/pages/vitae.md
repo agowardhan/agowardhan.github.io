@@ -74,7 +74,7 @@ Searched for a fractional change in the value of the fine structure constant ove
 - Co-I: ‘Testing the VLA as a Molecular Outflow Machine’, 2 hours     
 - Co-I: ‘Confirming detections of molecular absorption in a blind VLA absorption survey’, 7.5 hours     
 
-**Hubble Space Telescope** 
+**Hubble Space Telescope (HST)** 
 
 - PI : Impact of the most extreme AGN-driven molecular outflow on its host galaxy (Joint VLA/HST proposal), 2 orbits
 
