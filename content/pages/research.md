@@ -4,7 +4,11 @@ I completed my bachelors and masters in Physics from the Indian Institute of Sci
 
 ## More recent research 
 
-![](../images/alma.jpg)
+
+| ![alma.jpg](../images/alma.jpg) | 
+|:--:| 
+| Caption|
+
 
 ### Hearts of darkness
 As a Visiting Graduate Research student at the Infrared Processing and Analysis Center (IPAC), Caltech, I worked with Lee Armus and the Great-Observatories All-sky Survey (GOALS) on the study of some of the dustiest and most deeply obscured nuclei in the nearby universe. Using dense gas observations from ALMA, we study the the molecular gas dynamics on ~50-100 pc scales in the nuclei of these galaxies (paper to be posted soon.)
