@@ -21,24 +21,22 @@ Bachelor of Science, Physics, *July 2014* .
 
 - "The Dual Role of Starbursts and Active Galactic Nuclei in Driving Extreme Molecular Outflows", The Astrophysical Journal, Volume 859, Issue 1, article id. 35, 23 pp. (2018). [Link](https://ui.adsabs.harvard.edu/#abs/2018ApJ...859...35G/abstract)
 
+- "Hearts of Darkness : Lessons learned from deeply obscured nuclei in the nearby universe", _in prep_ 
+
+- "Molecular gas properties in a z~3 main-sequence galaxy", _in prep_ 
+
 ## Research 
 
 - A bayesian framework for multi-wavelength source detection, *2016*
 Optimized source detection in a multi-wavelength dataset using Python: the code identifies real astronomical sources given images from different instruments, and with different resolutions and sensitivity. 
 
-- A Blind Ka/Q-band Survey for Molecular Absorption at High Redshift (Thesis Project)
- Advisor: Dr. Nissim Kanekar, National Center for Radio Astrophysics, India *(2013-2014)* 
+- A Blind Ka/Q-band Survey for Molecular Absorption at High Redshift (Thesis Project, NCRA), *(2013-2014)* 
+ Developed pipeline for blind search of CO and HCO+ spectral line features to quantify the redshift number density of molecular absorbers in > 500 galaxies between 0.9 < z < 2.5  using Python, and Mathematica. 
 
-A blind search for molecular absorbers using CO and HCO+ lines, to quantify the redshift number density of molecular absorbers; observations of 585 target sources in 32-48 GHz (Ka and Q bands) with the EVLA over a redshift 0.9 < z < 2.5, and with total redshift path ∆z = 188. Developed pipeline for blind search of spectral line features in > 500 galaxies (over 2 TB of data) using bash, Python, and Mathematica. Involved data cleaning, hypothesis testing, error propagation, line modeling. 
-
-- Enhanced Sensitivity in Gravitational Wave Detection from Supernovae 
-Advisor: Prof. Soma Mukherjee, CGWA, Center for Gravitational Wave Research, UT Brownsville *(Summer 2012)*
-
+- Enhanced Sensitivity in Gravitational Wave Detection from Supernovae, CGWA, UT Brownsville *(May-August, 2012)*
 Improved search sensitivity for detection of GWs from supernovae by implementing Blind Source Separation (BSS) algorithm using Matlab to enhance to enhance search sensitivity for detection of weak gravitational wave signals in LIGO data. Tested with simulated as well as LIGO fourth Science run data (S4). 
 
-- Probing variation in fundamental constants using QSO Spectra 
-Advisor: Dr. Nissim Kanekar, National Centre for Radio Astrophysics (NCRA), India, *Aug - Dec, 2012*
-
+- Probing variation in fundamental constants using QSO Spectra, NCRA, *Aug - Dec, 2012*
 Searched for a fractional change in the value of the fine structure constant over cosmological timescales using cross-correlation of SiIV doublet absorption lines in QSO spectra from Keck/HIRES.
 
 ## Fellowships and honors 
