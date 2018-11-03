@@ -1,5 +1,5 @@
 
-607-279-1210 | [ag2255@cornell.edu](mailto:ag2255@cornell.edu) | 228, Space Sciences Building, Cornell University, Ithaca 
+[ag2255@cornell.edu](mailto:ag2255@cornell.edu) | 228, Space Sciences Building, Cornell University, Ithaca 
 
 # Avani Gowardhan
 
