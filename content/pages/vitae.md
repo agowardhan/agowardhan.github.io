@@ -54,27 +54,27 @@ Searched for a fractional change in the value of the fine structure constant ove
 
 ## Technical Skills 
 
-**Programming:** Python (Jupyter, numpy, scipy, astropy, pandas, scikit-learn), Bash, Linux, Matlab, LaTeX, Mathematica
-**Selected Coursework:** Machine Learning, Computational Physics, Signal Modeling, Statistical Inference and Data Mining in Astronomy.   
+**Programming:** Python (Jupyter, numpy, scipy, astropy, pandas, scikit-learn), Bash, Linux, Matlab, LaTeX, Mathematica   
+**Selected Coursework:** Machine Learning, Computational Physics, Signal Modeling, Statistical Inference and Data Mining in Astronomy  
 
 ## Observing Experience 
 
 **Atacama Large Millimeter/submillimeter Array (ALMA)**:
-- PI : ‘Probing Dense Gas Physics in the Most Extreme Southern Molecular Outflow’, 8.2 hours
-- PI : ‘The galaxy-wide impact of powerful feedback in ULIRGs’, 16.7 hours 
-- PI : ‘Constraining the mass of the fastest molecular outflow in the local universe’, 8.4 hours 
+- PI : ‘Probing Dense Gas Physics in the Most Extreme Southern Molecular Outflow’, 8.2 hours   
+- PI : ‘The galaxy-wide impact of powerful feedback in ULIRGs’, 16.7 hours     
+- PI : ‘Constraining the mass of the fastest molecular outflow in the local universe’, 8.4 hours       
 
 **Northern Extended Millimeter Array (NOEMA):**
 
-PI: ‘Probing molecular gas excitation in a ‘normal’ star-forming galaxy at z = 3.2’, 12.3 hours
+PI: ‘Probing molecular gas excitation in a ‘normal’ star-forming galaxy at z = 3.2’, 12.3 hours   
 
 **Expanded Very Large Array (EVLA):**
 
-PI : Impact of the most extreme AGN-driven molecular outflow on its host galaxy, 6.3 hours 
-PI : ‘Using dense gas observations at high redshift to test star formation paradigms’, 12.1 hours 
-PI : ‘Establishing OH masers as a molecular outflow diagnostic’, 12.6 hours 
-Co-I: ‘Testing the VLA as a Molecular Outflow Machine’, 2 hours 
-Co-I: ‘Confirming detections of molecular absorption in a blind VLA absorption survey’, 7.5 hours
+PI : Impact of the most extreme AGN-driven molecular outflow on its host galaxy, 6.3 hours    
+PI : ‘Using dense gas observations at high redshift to test star formation paradigms’, 12.1 hours     
+PI : ‘Establishing OH masers as a molecular outflow diagnostic’, 12.6 hours    
+Co-I: ‘Testing the VLA as a Molecular Outflow Machine’, 2 hours     
+Co-I: ‘Confirming detections of molecular absorption in a blind VLA absorption survey’, 7.5 hours     
 
 **Hubble Space Telescope** 
 
