@@ -64,23 +64,23 @@ Searched for a fractional change in the value of the fine structure constant ove
 
 **Northern Extended Millimeter Array (NOEMA):**
 
-PI: ‘Probing molecular gas excitation in a ‘normal’ star-forming galaxy at z = 3.2’, 12.3 hours   
+- PI: ‘Probing molecular gas excitation in a ‘normal’ star-forming galaxy at z = 3.2’, 12.3 hours   
 
 **Expanded Very Large Array (EVLA):**
 
-PI : Impact of the most extreme AGN-driven molecular outflow on its host galaxy, 6.3 hours    
-PI : ‘Using dense gas observations at high redshift to test star formation paradigms’, 12.1 hours     
-PI : ‘Establishing OH masers as a molecular outflow diagnostic’, 12.6 hours    
-Co-I: ‘Testing the VLA as a Molecular Outflow Machine’, 2 hours     
-Co-I: ‘Confirming detections of molecular absorption in a blind VLA absorption survey’, 7.5 hours     
+- PI : Impact of the most extreme AGN-driven molecular outflow on its host galaxy, 6.3 hours    
+- PI : ‘Using dense gas observations at high redshift to test star formation paradigms’, 12.1 hours     
+- PI : ‘Establishing OH masers as a molecular outflow diagnostic’, 12.6 hours    
+- Co-I: ‘Testing the VLA as a Molecular Outflow Machine’, 2 hours     
+- Co-I: ‘Confirming detections of molecular absorption in a blind VLA absorption survey’, 7.5 hours     
 
 **Hubble Space Telescope** 
 
-PI : Impact of the most extreme AGN-driven molecular outflow on its host galaxy (Joint VLA/HST proposal), 2 orbits
+- PI : Impact of the most extreme AGN-driven molecular outflow on its host galaxy (Joint VLA/HST proposal), 2 orbits
 
 **NuSTAR** 
 
-PI : "Probing the hidden AGN behind the most energetic molecular outflow", 100 ks
+- PI : "Probing the hidden AGN behind the most energetic molecular outflow", 100 ks
 
 ## Selected Talks and Conference presentations 
 
