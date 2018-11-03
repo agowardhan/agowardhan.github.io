@@ -7,7 +7,7 @@ I completed my bachelors and masters in Physics from the Indian Institute of Sci
 
 | ![alma.jpg](../images/alma.jpg) | 
 |:--:| 
-| A lot of my current research involves using the [Atacama Large (sub) Millimetre Array (ALMA)](https://almascience.nrao.edu/), pictured here with the Milky Way ini the background.|
+| A lot of my current research involves using the [Atacama Large (sub) Millimetre Array (ALMA)](https://almascience.nrao.edu/), pictured here with the Milky Way in the background.|
 
 
 ### Hearts of darkness
