@@ -15,7 +15,7 @@ Master of Science, Astronomy, *July 2016* .
 Master of Science (Distinction), Physics, *July 2014* .  
 Bachelor of Science, Physics, *July 2014* . 
 
-## Publications (See [here](https://ui.adsabs.harvard.edu/#search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FGowardhan%2C%20A%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGowardhan%2C%20A%2FGowardhan%2C%20Avani%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FGowardhan%2C%20A%22%20AND%20author_facet_hier%3A%221%2FGowardhan%2C%20A%2FGowardhan%2C%20Avani%22)&q=author%3A%22%5Egowardhan%2C%20Avani%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) for an up-to-date list.)
+## First-Author publications (See [here](https://ui.adsabs.harvard.edu/#search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FGowardhan%2C%20A%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FGowardhan%2C%20A%2FGowardhan%2C%20Avani%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FGowardhan%2C%20A%22%20AND%20author_facet_hier%3A%221%2FGowardhan%2C%20A%2FGowardhan%2C%20Avani%22)&q=author%3A%22%5Egowardhan%2C%20Avani%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) for an up-to-date list.)
 
 - "High Dense Gas Fraction in a Gas-rich Star-forming Galaxy at z = 1.2", The Astrophysical Journal, Volume 838, Issue 2, article id. 136, 15 pp. (2017). [Link](https://ui.adsabs.harvard.edu/#abs/2017ApJ...838..136G/abstract)
 
