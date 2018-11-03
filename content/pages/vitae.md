@@ -53,7 +53,7 @@ Searched for a fractional change in the value of the fine structure constant ove
 ## Technical Skills 
 
 **Programming:** Python (Jupyter, numpy, scipy, astropy, pandas, scikit-learn), Bash, Linux, Matlab, LaTeX, Mathematica   
-**Selected Coursework:** Machine Learning, Computational Physics, Signal Modeling, Statistical Inference and Data Mining in Astronomy  
+**Selected Coursework:** Machine Learning for Intelligent Systems, Computational Physics, Signal Modeling, Statistical Inference and Data Mining in Astronomy 
 
 ## Observing Experience 
 
