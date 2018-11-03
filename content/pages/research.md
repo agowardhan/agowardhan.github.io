@@ -14,7 +14,7 @@ I completed my bachelors and masters in Physics from the Indian Institute of Sci
 As a Visiting Graduate Research Fellow at the [Infrared Processing and Analysis Center (IPAC)](https://www.ipac.caltech.edu/), Caltech, I worked with Lee Armus and the [Great-Observatories All-sky Survey (GOALS)](http://goals.ipac.caltech.edu/) team on the study of some of the dustiest and most deeply obscured nuclei in the nearby universe. Using dense gas observations from ALMA, we study the the molecular gas dynamics on ~50-100 pc scales in the nuclei of these galaxies (paper to be posted soon!)
 
 ### The most powerful molecular outflows in the nearby universe
-| ![outflow.jpg](../images/outflow.jpg)| 
+| ![outflow.jpg](../images/outflow.jpg) | 
 |:--:| 
 | An artist's impression of AGN-driven outflows |
 
