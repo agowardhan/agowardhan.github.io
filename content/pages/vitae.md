@@ -24,9 +24,10 @@ Bachelor of Science, Physics, *July 2014* .
 
 - "The Dual Role of Starbursts and Active Galactic Nuclei in Driving Extreme Molecular Outflows", The Astrophysical Journal, Volume 859, Issue 1, article id. 35, 23 pp. (2018). [Link](https://ui.adsabs.harvard.edu/#abs/2018ApJ...859...35G/abstract)
 
+- "Molecular gas properties in a z~3 main-sequence galaxy", _submitted_ 
+
 - "Hearts of Darkness : Lessons learned from deeply obscured nuclei in the nearby universe", _in prep_ 
 
-- "Molecular gas properties in a z~3 main-sequence galaxy", _in prep_ 
 
 ## Research 
 
